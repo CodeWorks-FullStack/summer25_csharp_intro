@@ -1,0 +1,14 @@
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\bin\Debug\net9.0\csharp_intro.exe
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\bin\Debug\net9.0\csharp_intro.deps.json
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\bin\Debug\net9.0\csharp_intro.runtimeconfig.json
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\bin\Debug\net9.0\csharp_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\bin\Debug\net9.0\csharp_intro.pdb
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.AssemblyInfoInputs.cache
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.AssemblyInfo.cs
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.csproj.CoreCompileInputs.cache
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\refint\csharp_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.pdb
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\csharp_intro.genruntimeconfig.cache
+C:\Users\JeremysSurface\source\Codeworks\2025_summer\csharp_intro\obj\Debug\net9.0\ref\csharp_intro.dll
